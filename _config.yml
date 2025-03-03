@@ -1,5 +1,4 @@
 # Site Settings
-github                   : [metadata]
 locale                   : "en-US"
 title                    : "Dr. Samadi Teams"
 title_separator          : "-"
@@ -7,7 +6,7 @@ name                     : &name "Dr. Samadi Teams"
 description              : &description "Dr. Samadi Teams"
 url                      : https://drsamaditeams.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bakhshiali/drsamaditeams.github.io"
+repository               : " bakhshiali/drsamaditeams.github.io "
 teaser                   : "Ali-Samadi-11.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
